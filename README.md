@@ -3,37 +3,20 @@
 **Email:** ayushpradhan@hotmail.co.uk  
 
 ## Personal Profile  
-As a keen student of economics and self-driven learner, I have transitioned into the data science field, building on my undergraduate degree in financial and business economics to expand my analytical toolkit. By combining economic principles with advanced data science and machine learning techniques, I am developing models with predictive capabilities applicable to economic and financial consulting contexts. I am eager to tackle complex financial challenges and contribute meaningfully to data-driven decision-making in organizational contexts.
+"I am a self-driven data enthusiast with a strong foundation in data science and analytics. My journey has led me to develop an extensive analytical toolkit through a combination of formal education and independent learning. I am currently pursuing a Master’s in Data Science, further honing my ability to work with advanced data science techniques and machine learning algorithms. Passionate about solving complex problems, I am eager to apply my skills in data analysis, predictive modelling, and statistical methodologies to drive data-driven decision-making in organisational contexts. Always motivated to learn and grow, I am committed to expanding my expertise and contributing meaningfully by communicating data insights through bespoke dashboards and compelling visualisations."
 
 ## Education  
 
 ### King’s College London  
 **September 2024 – Present – Currently Enrolled (End Date 2025)**  
 - **Degree:** MSc Data Science  
-- **Modules:**  
-  - Statistics in Finance  
-  - Statistics for Data Analysis  
-  - Computer Programming for Data Scientists  
-  - Machine Learning  
-  - Pattern Recognition, Neural Networks, and Deep Learning  
-  - Big Data Technologies  
-  - Databases, Data Warehousing, and Information Retrieval  
+- **Modules:** Statistics in Finance, Statistics for Data Analysis, Computer Programming for Data Scientists, Machine Learning, **Pattern Recognition, Neural Networks, and Deep Learning**, Big Data Technologies, Databases, Data Warehousing, and Information Retrieval  
 
 ### Royal Holloway, University of London  
-**September 2019 – July 2022, Hybrid**  
+**September 2019 – July 2022**  
 - **Degree:** BSc Financial and Business Economics  
 - **Grade:** First Class Honours  
-- **Relevant Modules:**  
-  - Quantitative Methods  
-  - Applied Economics and Policy  
-  - International Economic Policy  
-  - Microeconomics  
-  - Macroeconomics  
-  - Corporate Finance  
-  - Financial Markets and Institutions  
-  - Industrial Economics  
-  - Financial Economics  
-  - Industrial Growth and Competition  
+- **Modules:** Quantitative Methods, Financial Markets and Institutions, Financial Economics, Industrial Growth and Competition, Microeconomics, Macroeconomics, Corporate Finance, Industrial Economics, Applied Economics and Policy, International Economic Policy  
 
 ### The Data Science Course: Complete Data Science Bootcamp, Udemy  
 **March 2024 – May 2024, Online**  
@@ -48,7 +31,7 @@ As a keen student of economics and self-driven learner, I have transitioned into
 
 ### Harvard CS50 Introduction to Programming with Python Certificate  
 **April 2023 – June 2023, Online**  
-- Working knowledge of key programming fundamentals such as variables, functions, conditionals, loops, unit tests, and object-oriented programming.
+- Working knowledge of key programming fundamentals such as variables, functions, conditionals, loops, unit testing, and object-oriented programming.
 
 ## Technical Skills  
 - Worked with statistical packages in R to perform regressions and determine statistical significance in Quantitative Methods.  
@@ -56,5 +39,4 @@ As a keen student of economics and self-driven learner, I have transitioned into
 - Practical application of Excel functions in conducting analysis of daily closing price of stock markets (SEMDEX, FTSE 100, Tadawul) for summary statistics.  
 - Data presentation skills developed in corporate finance whilst compiling tables for common size and year-on-year analysis.  
 - Ability to utilize `StatsModels` and `scikit-learn` library in Python for predictive modelling, OLS linear regressions for estimation of coefficients, and logistic regressions.
-
 
